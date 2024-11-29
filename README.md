@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 O projeto "Extremamente Aesthetic" explora a interseção entre inteligência artificial e percepção humana. Inspirado pelo conceito de Natty or Fake Natty, criamos um vídeo onde um avatar realista discute as possibilidades e desafios de distinguir o natural do gerado por IA. O objetivo? Provocar reflexões sobre autenticidade e a estética no uso de IA.
