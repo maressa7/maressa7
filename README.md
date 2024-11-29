@@ -14,5 +14,6 @@ Avatar Realista: Um avatar foi configurado para parecer humano e convincente, ut
 ## 🚀 Resultados
 Vídeo Final: Um clipe de 1 minuto que captura a essência do tema, provocando questionamentos sobre o que é natural ou artificial.
 Você pode ter acesso ao vídeo clicando no link https://app.heygen.com/share/fef1e1a6073f43d3bdb845e62e1482d9
-## 💭 Reflexão (Opcional)
+
+## 💭 Reflexão 
 Criar algo "natty" com IA é um paradoxo: enquanto buscamos naturalidade, dependemos de ferramentas que são, por definição, artificiais. O desafio maior foi equilibrar a estética e a funcionalidade sem ultrapassar os limites do que poderia ser percebido como "real". O projeto não só expôs as possibilidades, mas também evidenciou os limites atuais da tecnologia – e isso, por si só, é extremamente aesthetic. 😉.
